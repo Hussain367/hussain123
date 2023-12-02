@@ -1,6 +1,6 @@
 # variables 
-variable "myaccess_key" {}
-variable "mysecret_key" {}
+variable "myaccess_key" {"AKIAYPXRVENY7J3VNYXI"}
+variable "mysecret_key" {"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"}
 variable "myregion" { default = "us-west-2"}
 variable "myami" {default = "ami-0c55b159cbfafe1f0"}
 variable "myinstance_type" { default = "t2.micro"}
